@@ -1,0 +1,10 @@
+name: CoreEssentials
+version: 1.0
+authors: [RedstonedLife,ocauth]
+main: core.team.Main.CoreEssentials
+
+commands:
+  rules:
+    description: Displays rules!
+    usage: /<command>
+    aliases: [rule]

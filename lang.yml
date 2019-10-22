@@ -1,0 +1,2 @@
+rulesTop: " &e---- &6Rules &e----"
+ErrorRulesNotFound: "&cError: &4File rules.txt does not exist, creating one for you"
